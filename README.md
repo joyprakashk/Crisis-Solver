@@ -35,7 +35,6 @@ https://github.com/user-attachments/assets/fa4c9df6-c5f1-4373-a2c0-ec8f264330f7
 - **Programming Language**: TypeScript
 - **Blockchain**: Sui Network
 - **AI Integration**: 
-  - Ollama
   - Gemini AI
 
 ## 🚀 Getting Started
