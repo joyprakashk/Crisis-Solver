@@ -87,6 +87,13 @@ Visit `http://localhost:3000` to access the application.
    - Resource allocation optimization
    - Real-time progress tracking
 
+     
+## 📺 Demo Video
+Watch the demo video to see Crisis Solver in action:
+
+<video width="320" height="240" controls> <source src="[https://github.com/your-repo/issues/issue-id/your-video-file.mp4" type="video/mp4](https://github.com/user-attachments/assets/8bd2b569-c089-4d72-acb7-9d6ef5eecbc6)"> Your browser does not support the video tag. </video>
+
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
