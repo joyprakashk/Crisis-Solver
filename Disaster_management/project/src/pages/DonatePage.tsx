@@ -25,7 +25,7 @@ const DisasterCard: React.FC<DisasterCardProps> = ({
   const handleDonationClick = async () => {
     const tx = new Transaction();
     const [coin] = tx.splitCoins(tx.gas, [tx.pure.u64("1000000")]);
-    tx.transferObjects([coin], tx.pure.address("0x811641a4fbc70e74d67c396ddb48b2844d621b36b4f9ac4eaca2df9a9cf2c842"));
+    tx.transferObjects([coin], tx.pure.address("//wallet address here"));
     signAndExecute(
       {
       transaction: tx,
