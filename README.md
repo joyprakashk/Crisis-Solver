@@ -1,6 +1,6 @@
 # Crisis Solver
 
-> Empowering crisis management through AI and blockchain technology
+### Empowering crisis management through AI and blockchain technology
 
 ## 📺 Demo Video
 Watch the demo video to see Crisis Solver in action:
