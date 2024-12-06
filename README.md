@@ -91,10 +91,7 @@ Visit `http://localhost:3000` to access the application.
 ## 📺 Demo Video
 Watch the demo video to see Crisis Solver in action:
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/8bd2b569-c089-4d72-acb7-9d6ef5eecbc6" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/8bd2b569-c089-4d72-acb7-9d6ef5eecbc6
 
 
 ## 🤝 Contributing
