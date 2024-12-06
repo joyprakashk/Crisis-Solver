@@ -2,12 +2,14 @@
 
 ### Empowering crisis management through AI and blockchain technology
 
+Crisis Solver is a TypeScript-based charity application that revolutionizes crisis management by combining the power of AI with Sui Blockchain technology. Our platform creates a transparent bridge between donors and relief teams, ensuring efficient and accountable donation handling during critical situations.
+
+
 ## 📺 Demo Video
 Watch the demo video to see Crisis Solver in action:
 
 https://github.com/user-attachments/assets/fa4c9df6-c5f1-4373-a2c0-ec8f264330f7
 
-Crisis Solver is a TypeScript-based charity application that revolutionizes crisis management by combining the power of AI with Sui Blockchain technology. Our platform creates a transparent bridge between donors and relief teams, ensuring efficient and accountable donation handling during critical situations.
 
 ## 🌟 Key Features
 
