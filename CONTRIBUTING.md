@@ -16,9 +16,9 @@ This project was developed as part of **Unfold 2024** hackathon by the following
 We welcome contributions from the community! Here's how you can help:
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b {Feature_Name}`)
+3. Commit your changes (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin {Feature_Name}`)
 5. Open a Pull Request
 
 ## 🔥 Join the Mission
