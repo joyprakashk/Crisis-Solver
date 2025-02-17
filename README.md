@@ -112,9 +112,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Sui Blockchain team for their robust blockchain infrastructure
-- Ollama and Gemini AI teams for their powerful AI capabilities
-- All contributors and supporters of the project
+- Sui Blockchain team for their robust blockchain infrastructure.
+- All contributors and supporters of the project.
 
 ---
 
