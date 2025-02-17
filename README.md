@@ -42,7 +42,6 @@ https://github.com/user-attachments/assets/fa4c9df6-c5f1-4373-a2c0-ec8f264330f7
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- npm or yarn
 - Sui Wallet
 - API credentials for Gemini AI
 
@@ -66,7 +65,6 @@ cp .env.example .env
 
 # Add your credentials
 SUI_BLOCKCHAIN_URL=<your-sui-blockchain-url>
-OLLAMA_API_KEY=<your-ollama-api-key>
 GEMINI_API_KEY=<your-gemini-api-key>
 ```
 
@@ -102,9 +100,9 @@ Visit `http://localhost:3000` to access the application.
 We welcome contributions from the community! Here's how you can help:
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature1`)
+3. Commit your changes (`git commit -m 'Added new feature'`)
+4. Push to the branch (`git push origin feature1`)
 5. Open a Pull Request
 
 ## 📜 License
