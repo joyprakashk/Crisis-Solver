@@ -91,19 +91,6 @@ Visit `http://localhost:3000` to access the application.
    - Resource allocation optimization
    - Real-time progress tracking
 
-     
-
-
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Here's how you can help:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature1`)
-3. Commit your changes (`git commit -m 'Added new feature'`)
-4. Push to the branch (`git push origin feature1`)
-5. Open a Pull Request
 
 ## 📜 License
 
