@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/fa4c9df6-c5f1-4373-a2c0-ec8f264330f7
 - Node.js (v14 or higher)
 - npm or yarn
 - Sui Wallet
-- API credentials for Ollama and Gemini AI
+- API credentials for Gemini AI
 
 ### Installation
 
