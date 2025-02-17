@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/fa4c9df6-c5f1-4373-a2c0-ec8f264330f7
 ## 🌟 Key Features
 
 ### AI-Powered Crisis Response
-- Real-time crisis prediction using Ollama and Gemini AI
+- Real-time crisis prediction using Gemini AI
 - Automated volunteer notification system
 - Smart resource allocation based on impact assessment
 
